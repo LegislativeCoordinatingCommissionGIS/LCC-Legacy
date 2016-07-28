@@ -2,7 +2,7 @@
 ### Minnesota Legacy Ammendment project mapping application User Interface
 
 <p align="center">
-  <img src="https://github.com/LegislativeCoordinatingCommissionGIS/LCC-Legacy/edit/master/data/Legacy.jpg" alt="mimimal view" width="80%"/>
+  <img src="https://github.com/LegislativeCoordinatingCommissionGIS/LCC-Legacy/blob/master/data/Legacy.jpg" alt="Legacy App" width="80%"/>
 </p>
 
 The **Legacy Ammendment Map** application is a completely open-source full-stack, responsive (RWD) application, built with PostGIS, Leaflet, and a little TLC.
